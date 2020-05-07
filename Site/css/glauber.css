@@ -68,7 +68,7 @@ ul{
 
 }
 .besouro {
-    height: 400px;
+    height: 435px;
     width: 250px;
     float: right;
     margin-top: 100px;
@@ -80,4 +80,32 @@ ul{
 }
 .besouro p {
     text-align: justify ;
+}
+.historia {
+    height: 435px;
+    width: 250px;
+    float: left;
+    margin-top: 100px;
+    background: #4dadda;
+    padding: 7px;
+    border: #008080 3px solid;
+}
+.gif{
+    height: 170px;
+    width: 100px;
+    background: url("../imagem/sdog.gif");
+    background-size: cover;
+    float: right;
+    margin-right: 70px;
+    margin-top: -170px;
+}
+.fim{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 70px;
+    width: 100%;
+    background: #013d58;
+    padding-top: 2px;
+    padding-bottom: 20px;
+    float: left;
 }
